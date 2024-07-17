@@ -1,7 +1,0 @@
-**Dataset**
-
-The dataset used in this project, titled heart failure clinical records, was sourced from Kaggle. It includes relevant medical features necessary for predicting heart failure outcomes using the Decision Tree algorithm. 
-This dataset was cleaned and preprocessed to ensure data quality, handling missing values and normalizing features as part of the analysis process.
-
-The dataset can be downloaded by navigating through this link:
-"https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records"
