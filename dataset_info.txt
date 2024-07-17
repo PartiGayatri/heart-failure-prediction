@@ -1,0 +1,25 @@
+# Heart Failure Clinical Records Dataset
+
+This dataset was acquired from Kaggle. It includes clinical records for heart failure patients and is used for predicting heart failure outcomes using various machine learning algorithms.
+
+## Source
+
+The dataset can be accessed and downloaded from Kaggle using the following link:
+[Heart Failure Clinical Records Dataset on Kaggle](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records)
+
+## Description
+
+The dataset contains medical records of heart failure patients and includes features such as:
+- Age
+- Ejection fraction
+- Serum creatinine
+- Blood pressure
+- And other relevant medical parameters
+
+## Usage
+
+This dataset is used in our project to train and evaluate a Decision Tree algorithm for heart failure prediction.
+
+## License
+
+Please refer to the Kaggle page for licensing information and terms of use.
