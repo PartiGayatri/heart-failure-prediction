@@ -5,7 +5,7 @@ This dataset was acquired from Kaggle. It includes clinical records for heart fa
 ## Source
 
 The dataset can be accessed and downloaded from Kaggle using the following link:
-[https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records)
+[https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records]
 
 ## Description
 
