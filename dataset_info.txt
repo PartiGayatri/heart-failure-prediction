@@ -7,14 +7,6 @@ This dataset was acquired from Kaggle. It includes clinical records for heart fa
 The dataset can be accessed and downloaded from Kaggle using the following link:
  [Kaggle](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records).
 
-# Heart Failure Prediction
-
-Predicting heart failure using Decision Tree algorithm with a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records). Achieved 99% accuracy, demonstrating robust performance as a binary classifier. Topics include data preprocessing, model training, and evaluation.
-
-## Dataset
-
-The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records). It contains clinical records of heart failure patients.
-
 
 ## Description
 
